@@ -10,7 +10,7 @@ all other .h Files ar also not ncluded.
 #include <dht11.h>			http://playground.arduino.cc/Main/DHT11Lib
 #include <TimedAction.h>		Not used in this version 
 
-Developped with the Atomic/PlatformIO IDFE.
+Developped with the Atomic/PlatformIO IDE.
 
 
 
