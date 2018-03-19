@@ -14,7 +14,7 @@ dht11 DHT11;
 
 void updateGroveStreams();
 
-String apiKey = "6e3b31c6-1f5a-39d4-b3d6-ca2ee27dd4a8";
+String apiKey = "your-api-key";
 const char* server = "www.grovestreams.com";
 
 WiFiClient client;
