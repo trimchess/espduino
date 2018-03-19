@@ -1,0 +1,6 @@
+HTTPS
+https://github.com/trimchess/espduino.git
+SSH
+git@github.com:trimchess/espduino.git
+
+
