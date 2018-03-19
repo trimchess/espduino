@@ -8,10 +8,10 @@ all other .h Files ar also not ncluded.
 #include <ESP8266WiFi.h>
 #include <WiFiParam.h>
 #include <dht11.h>			http://playground.arduino.cc/Main/DHT11Lib
-#include <TimedAction.h>		Not used in this version 
+#include <TimedAction.h>		Not used in this version
+#include "grovestreams.h"   Includes the grovestream API Key. You should place your
+                            grovestreams.h file in a local lib directory and place there
+                            your grovestreams API-key
+                            (String apiKey = "your-personal-grovestreams-api-key")
 
 Developped with the Atomic/PlatformIO IDE.
-
-
-
-  
